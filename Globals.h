@@ -21,7 +21,6 @@
 #include <GL/glew.h>
 #include <GL/glu.h>
 
-
 // Game Includes
 #include "DisplayManager.h"
 
